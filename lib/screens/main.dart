@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'quiz.dart';
+import 'quiz_screen.dart';
 
 
 void main(){
